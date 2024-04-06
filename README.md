@@ -9,12 +9,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 ### Machine Learning / Deep Learning Project
 
-| S.No                    | Name                                    | Link |
-| :---------------------- | :-------------------------------------- | :----|
-| 1.                      | Student Performance Prediction          | [👆](https://github.com/Aadarsh4u-code/mlproject?tab=readme-ov-file) |
-| 2.                      |                                         |    |
-| 3.                      |                                         |    |
-| 4.                      |                                         |    |
+| S.No | Name                                    | Link |
+| :----| :-------------------------------------- | :----|
+| 1.   | Student Performance Prediction          | [👆](https://github.com/Aadarsh4u-code/mlproject?tab=readme-ov-file) |
+| 2.   | Convolutional Neural Network (CNN ) Based Approach for Multiclass Classification of skin lesions |    [👆](https://github.com/Aadarsh4u-code/CNN-Approach-for-Multiclass-Classification-of-skin-lesions/tree/main)|
+| 3.   |                                         |    |
+| 4.   |                                         |    |
 
 
 ### SQL Project
