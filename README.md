@@ -11,10 +11,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 | S.No | Name                                    | Link |
 | :----| :-------------------------------------- | :----|
-| 1.   | Student Performance Prediction          | [👆](https://github.com/Aadarsh4u-code/mlproject?tab=readme-ov-file) |
-| 2.   | Convolutional Neural Network (CNN ) Based Approach for Multiclass Classification of skin lesions |    [👆](https://github.com/Aadarsh4u-code/CNN-Approach-for-Multiclass-Classification-of-skin-lesions/tree/main)|
-| 3.   | Public Transport Trend in Ireland Vs Paris,france and Sentiment Analysis on Public Transport Ireland Vs Netherlands| [👆](https://github.com/Aadarsh4u-code/Public-transport-trend)   |
-| 4.   |                                         |    |
+
+| 1.   | ML Model for Earthquake Prediction          | [👆](https://github.com/Aadarsh4u-code/ML-Model-for-Earthquake-Prediction) |
+| 2.   | Student Performance Prediction          | [👆](https://github.com/Aadarsh4u-code/mlproject?tab=readme-ov-file) |
+| 3.   | Convolutional Neural Network (CNN ) Based Approach for Multiclass Classification of skin lesions |    [👆](https://github.com/Aadarsh4u-code/CNN-Approach-for-Multiclass-Classification-of-skin-lesions/tree/main)|
+| 4.   | Public Transport Trend in Ireland Vs Paris,france and Sentiment Analysis on Public Transport Ireland Vs Netherlands| [👆](https://github.com/Aadarsh4u-code/Public-transport-trend)   |
+| 5.   |                                         |    |
 
 
 ### SQL Project
