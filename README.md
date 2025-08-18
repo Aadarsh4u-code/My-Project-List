@@ -11,6 +11,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 | S.No | Name                                   |Project Type|  Link |
 | :----| :--------------------------------------| :----------|  :----|
+| 1.   | Car Damage Detection | Classification Convolutional Neural Network (CNN ) | [👆](https://github.com/Aadarsh4u-code/car-damage-detection-cnn) |
 | 1.   | Credit Risk Modeling for NBFC | Classification                | [👆](https://github.com/Aadarsh4u-code/Credit-Risk-Model-For-NBFC) |
 | 2.   | Health Insurance Cost Predictor | Regression         | [👆](https://github.com/Aadarsh4u-code/Health-Insurance-Cost-Predictor) |
 | 3.   | US Visa Approval Prediction | Classification         | [👆](https://github.com/Aadarsh4u-code/US-Visa-Approval-Prediction) |
