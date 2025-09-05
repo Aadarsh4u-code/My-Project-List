@@ -1,4 +1,4 @@
-# Data Analytics /  Data Science Projects
+# Machine Learning / Deep Learning / Gen-AI Project
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-kushwaha-54a281194/)
 
@@ -7,7 +7,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 ***This list is continuously updated.***
 
-### Machine Learning / Deep Learning Project
+
 
 | S.No | Name                                   |Project Type|  Link |
 | :----| :--------------------------------------| :----------|  :----|
