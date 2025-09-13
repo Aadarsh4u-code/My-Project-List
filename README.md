@@ -11,9 +11,9 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 | S.No | Name                                   |Project Type|  Link |
 | :----| :--------------------------------------| :----------|  :----|
-| 1.   | Car Damage Detection | Classification Convolutional Neural Network (CNN ) | [👆](https://github.com/Aadarsh4u-code/car-damage-detection-cnn) |
+| 1.   | ECommerceChatbot |(RAG) | [👆](https://github.com/Aadarsh4u-code/ECommerceChatbot) |
 | 2.   | RAGTube (Your YouTube videos, powered by Retrieval-Augmented Generation.) | (RAG) | [👆](https://github.com/Aadarsh4u-code/RAGTube) |
-| 3.   | PropWise(Turning Real Estate Data into Smart Decisions)| (RAG) | [👆](https://github.com/Aadarsh4u-code/PropWise) |
+| 3.   | PropWise(Turning Real Estate Data into Smart Decisions) | (RAG) | [👆](https://github.com/Aadarsh4u-code/PropWise) |
 | 4.   | Car Damage Detection | Classification Convolutional Neural Network (CNN ) | [👆](https://github.com/Aadarsh4u-code/car-damage-detection-cnn) |
 | 5.   | Credit Risk Modeling for NBFC | Classification                | [👆](https://github.com/Aadarsh4u-code/Credit-Risk-Model-For-NBFC) |
 | 6.   | Health Insurance Cost Predictor | Regression         | [👆](https://github.com/Aadarsh4u-code/Health-Insurance-Cost-Predictor) |
